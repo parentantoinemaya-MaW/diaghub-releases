@@ -1,6 +1,6 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.2.0/DiagHubv2.exe",
-  "size": 2112512,
-  "notes": "Pru00e9achat : pastille score ronde, mise u00e0 jour automatique via GitHub, modal enrichi"
+  "version": "2.3.1",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.3.1/DiagHubv2.exe",
+  "size": 2138112,
+  "notes": "Correctif chauffe panneau Capteurs (cache nvidia-smi/WMI), étiquette \"Zone thermique\" plus claire, mode fenêtré sans chevauchement."
 }
