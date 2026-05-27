@@ -1,6 +1,6 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.3.1/DiagHubv2.exe",
-  "size": 2138112,
-  "notes": "Correctif chauffe panneau Capteurs (cache nvidia-smi/WMI), étiquette \"Zone thermique\" plus claire, mode fenêtré sans chevauchement."
+  "version": "2.3.4",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.3.4/DiagHubv2.exe",
+  "size": 2322432,
+  "notes": "Plus aucun fichier laissé sur le Bureau ou à côté de l'EXE (données internes regroupées dans LOCALAPPDATA, rapports dans Documents\\DiagHub). Nettoyage automatique des résidus des versions précédentes. Mode Performance disponible aussi sur PC fixe. Saccades réduites sur l'encyclopédie et les modals."
 }
