@@ -1,6 +1,6 @@
 {
-  "version": "2.3.4",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.3.4/DiagHubv2.exe",
-  "size": 2322432,
-  "notes": "Plus aucun fichier laissé sur le Bureau ou à côté de l'EXE (données internes regroupées dans LOCALAPPDATA, rapports dans Documents\\DiagHub). Nettoyage automatique des résidus des versions précédentes. Mode Performance disponible aussi sur PC fixe. Saccades réduites sur l'encyclopédie et les modals."
+  "version": "2.4.1",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.4.1/DiagHubv2.exe",
+  "size": 2328064,
+  "notes": "Affinage de la notation : le grade S+ devient plus exigeant et reflète mieux la réalité du parc 2026. Retours enrichis avec du contexte anonymisé pour mieux comprendre les situations. Fluidité améliorée sur les analyses par symptôme et les fenêtres d'information."
 }
