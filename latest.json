@@ -2,5 +2,5 @@
   "version": "2.6.0",
   "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.6.0/DiagHubv2.exe",
   "size": 2382848,
-  "notes": "L'interface s'adapte maintenant Ã  toutes les tailles de fenÃªtre â€” fini les Ã©lÃ©ments qui se chevauchent, et tu peux redimensionner librement. Capture d'Ã©cran avec la touche F12 (enregistrÃ©e dans Documents\\DiagHub\\Captures). Aide (?) sur les programmes au dÃ©marrage. Correction de la lÃ©gende du mode Performance."
+  "notes": "L'interface s'adapte maintenant a toutes les tailles de fenetre : fini les elements qui se chevauchent, et tu peux redimensionner librement. Capture d'ecran avec la touche F12 (enregistree dans Documents\\DiagHub\\Captures). Une aide (?) explique chaque programme au demarrage. Correction de la legende du mode Performance."
 }
