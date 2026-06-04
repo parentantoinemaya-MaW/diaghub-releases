@@ -1,6 +1,6 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.5.0/DiagHubv2.exe",
-  "size": 2343424,
-  "notes": "Nouvel assistant « Optimiser mon PC » qui te guide pas à pas après un scan. Nouvelle section « Astuces » avec des conseils d'entretien dans les fiches. « Apprendre » enrichi pour comprendre les valeurs. Carte Température corrigée et ouverture plus rapide."
+  "version": "2.6.0",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.6.0/DiagHubv2.exe",
+  "size": 2382848,
+  "notes": "L'interface s'adapte maintenant Ã  toutes les tailles de fenÃªtre â€” fini les Ã©lÃ©ments qui se chevauchent, et tu peux redimensionner librement. Capture d'Ã©cran avec la touche F12 (enregistrÃ©e dans Documents\\DiagHub\\Captures). Aide (?) sur les programmes au dÃ©marrage. Correction de la lÃ©gende du mode Performance."
 }
