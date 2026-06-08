@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.6.0/DiagHubv2.exe",
-  "size": 2382848,
-  "notes": "L'interface s'adapte maintenant a toutes les tailles de fenetre : fini les elements qui se chevauchent, et tu peux redimensionner librement. Capture d'ecran avec la touche F12 (enregistree dans Documents\\DiagHub\\Captures). Une aide (?) explique chaque programme au demarrage. Correction de la legende du mode Performance."
+  "version": "2.7.0",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.7.0/DiagHubv2.exe",
+  "size": 2400256,
+  "notes": "Capture d'ecran aussi avec la touche Impr. ecran (en plus de F12), et un guide pas a pas pour la joindre a un retour. Les outils avances sont presentes a la premiere ouverture : tu sais a quoi sert chacun. Analyse de performance plus juste sur le stockage (NVMe ou SATA) et les cartes graphiques integrees."
 }
