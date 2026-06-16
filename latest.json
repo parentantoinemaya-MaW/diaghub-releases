@@ -2,5 +2,5 @@
   "version": "2.8.0",
   "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.0/DiagHubv2.exe",
   "size": 2466304,
-  "notes": "Un bouton « Optimiser ton PC » bien visible apres le diagnostic. Surveillance en arriere-plan : DiagHub veille sur la temperature, le disque et la securite, meme fenetre fermee. Un widget flottant pour suivre ton PC (processeur, memoire, temperature, reseau). La fenetre se redimensionne librement et retient sa taille. L'onglet sante des disques ne fige plus l'application sur un PC lent."
+  "notes": "Un bouton Optimiser ton PC bien visible apres le diagnostic. Surveillance en arriere-plan : DiagHub veille sur la temperature, le disque et la securite, meme fenetre fermee. Un widget flottant pour suivre ton PC (processeur, memoire, temperature, reseau). La fenetre se redimensionne librement et retient sa taille. L'onglet sante des disques ne fige plus l'application sur un PC lent."
 }
