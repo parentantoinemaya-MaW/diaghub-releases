@@ -1,6 +1,6 @@
 {
-  "version": "2.8.1",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.1/DiagHubv2.exe",
-  "size": 2480128,
-  "notes": "Les termes techniques s'expliquent au survol : passe la souris sur un mot souligne pour voir sa definition, clique pour la fiche. Conseils reformules en francais plus clair (moins d'anglicismes). Glossaire enrichi de plus de 20 termes (IDE, CUDA, Storage Sense, et plus). Labels batterie clarifies : Tension electrique, Type de batterie."
+  "version": "2.8.2",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.2/DiagHubv2.exe",
+  "size": 2484224,
+  "notes": "Bouton Retour dans le questionnaire de fin pour corriger une reponse. Detection des SSD NVMe Gen4 (PCIe 4.0) elargie : moins de disques rapides sous-notes. Message plus clair quand Windows Update est desactive."
 }
