@@ -1,6 +1,6 @@
 {
-  "version": "2.8.3",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.3/DiagHubv2.exe",
-  "size": 2492416,
-  "notes": "Menu plus court, range en sections. Symptomes : un seul bouton puis un choix en cartes. Les explications arrivent sous le diagnostic (boutons flottants retires) ; glossaire et astuces dans le menu Apprendre. Alignement sphere/cartes corrige apres l'analyse."
+  "version": "2.8.4",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.4/DiagHubv2.exe",
+  "size": 2500608,
+  "notes": "Correction d'affichage : les cartes ne sont plus coupees sur les petits ecrans et en fenetre reduite. En fenetre reduite, tout se met a l'echelle ensemble, sans bandes noires sur les cotes. Correctif d'un clic parfois avale pres du bouton symptomes."
 }
