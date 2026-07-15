@@ -1,6 +1,6 @@
 {
-  "version": "2.8.6",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.6/DiagHubv2.exe",
-  "size": 2510848,
-  "notes": "Les diagnostics cibles Ca chauffe et Ca plante affichent enfin leur analyse detaillee. Scores plus justes (materiel recent, score global unifie). Capteurs plus fiables, surveillance arriere-plan plus legere, verdicts disque honnetes."
+  "version": "2.8.7",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.7/DiagHubv2.exe",
+  "size": 2519040,
+  "notes": "La surveillance arriere-plan dit honnetement ce qu'elle suit. Sante batterie jugee pareil partout. Symptome Bruit et cartes graphiques recentes mieux pris en charge. Etat non mesure dit clairement."
 }
