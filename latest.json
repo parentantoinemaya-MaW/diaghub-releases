@@ -1,6 +1,6 @@
 {
-  "version": "2.8.8",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.8/DiagHubv2.exe",
-  "size": 2550272,
-  "notes": "Certificat d'etat partageable (page publique 30 jours). Veille arriere-plan en option : demarrage avec Windows + chrono de boot. Panneau d'informations honnete."
+  "version": "2.8.9",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.9/DiagHubv2.exe",
+  "size": 2552320,
+  "notes": "Fermeture fiable : Quitter ferme tout, meme avec le widget capteurs ouvert. Veille respectee : fermer la fenetre met DiagHub en surveillance au lieu de quitter."
 }
