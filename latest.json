@@ -1,6 +1,6 @@
 {
-  "version": "2.8.9",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.8.9/DiagHubv2.exe",
-  "size": 2552320,
-  "notes": "Fermeture fiable : Quitter ferme tout, meme avec le widget capteurs ouvert. Veille respectee : fermer la fenetre met DiagHub en surveillance au lieu de quitter."
+  "version": "2.9.0",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.9.0/DiagHubv2.exe",
+  "size": 2616832,
+  "notes": "Nouveau mode SUIVI : l'historique de ton PC (courbes + moments notables avec leur cause). L'analyse se lance toute seule a l'ouverture. La veille demarre aussi au deverrouillage de session."
 }
