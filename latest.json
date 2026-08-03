@@ -1,6 +1,12 @@
-{
-  "version": "2.9.0",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.9.0/DiagHubv2.exe",
-  "size": 2616832,
-  "notes": "Nouveau mode SUIVI : l'historique de ton PC (courbes + moments notables avec leur cause). L'analyse se lance toute seule a l'ouverture. La veille demarre aussi au deverrouillage de session."
+﻿{
+  "version": "2.10.0",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.0/DiagHubv2.exe",
+  "size": 2665984,
+  "sha256": "b353bf1f9c88f9b1cbe45640f33839864ec049e6df576fdfa03536f94e5360a3",
+  "notes": "Analyse dès l'ouverture (tableau de bord déjà rempli), page Suivi refondue (verdict par domaine, résumé de la période), et un filet de sécurité sur les mises à jour : si une version empêche DiagHub de démarrer, la précédente est rétablie automatiquement.",
+  "minVersion": "",
+  "reason": "",
+  "recall": [],
+  "previousVersion": "2.9.0",
+  "previousUrl": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.9.0/DiagHubv2.exe"
 }
