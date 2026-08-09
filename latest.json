@@ -1,12 +1,12 @@
 ﻿{
-  "version": "2.10.0",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.0/DiagHubv2.exe",
-  "size": 2665984,
-  "sha256": "b353bf1f9c88f9b1cbe45640f33839864ec049e6df576fdfa03536f94e5360a3",
-  "notes": "Analyse dès l'ouverture (tableau de bord déjà rempli), page Suivi refondue (verdict par domaine, résumé de la période), et un filet de sécurité sur les mises à jour : si une version empêche DiagHub de démarrer, la précédente est rétablie automatiquement.",
+  "version": "2.10.1",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.1/DiagHubv2.exe",
+  "size": 2673152,
+  "sha256": "631b0cfe9695c97225a22bf2e18b0e94b4da34c5fda109937e1536c6338f9ffb",
+  "notes": "Correction d'un defaut qui faisait trembler l'ecran de resultats sur certains PC (le contenu grandissait et retrecissait sans fin des qu'un composant etait a surveiller). La page Suivi explique aussi pourquoi le temps de demarrage n'est pas affiche, au lieu de le passer sous silence.",
   "minVersion": "",
   "reason": "",
   "recall": [],
-  "previousVersion": "2.9.0",
-  "previousUrl": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.9.0/DiagHubv2.exe"
+  "previousVersion": "2.10.0",
+  "previousUrl": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.0/DiagHubv2.exe"
 }
