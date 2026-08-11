@@ -1,12 +1,12 @@
 ﻿{
-  "version": "2.10.1",
-  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.1/DiagHubv2.exe",
-  "size": 2673152,
-  "sha256": "631b0cfe9695c97225a22bf2e18b0e94b4da34c5fda109937e1536c6338f9ffb",
-  "notes": "Correction d'un defaut qui faisait trembler l'ecran de resultats sur certains PC (le contenu grandissait et retrecissait sans fin des qu'un composant etait a surveiller). La page Suivi explique aussi pourquoi le temps de demarrage n'est pas affiche, au lieu de le passer sous silence.",
+  "version": "2.10.2",
+  "url": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.2/DiagHubv2.exe",
+  "size": 2680832,
+  "sha256": "2e0e6f2328a6ecf57ff369c9be7653fd9c8f5ea6ea14701c6e8d726c013bf623",
+  "notes": "Une mise a jour va desormais jusqu'au bout meme si l'affichage est occupe. Si l'ecran se mettait a trembler, DiagHub se stabilise seul. Ouvrir par erreur le fichier temporaire d'une mise a jour ne pose plus de probleme.",
   "minVersion": "",
   "reason": "",
   "recall": [],
-  "previousVersion": "2.10.0",
-  "previousUrl": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.0/DiagHubv2.exe"
+  "previousVersion": "2.10.1",
+  "previousUrl": "https://github.com/parentantoinemaya-MaW/diaghub-releases/releases/download/v2.10.1/DiagHubv2.exe"
 }
